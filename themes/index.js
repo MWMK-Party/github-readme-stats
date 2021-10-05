@@ -6,6 +6,12 @@ const themes = {
     bg_color: "fffefe",
     border_color: "e4e2e2",
   },
+  katwav: {
+    title_color: "fff",
+    icon_color: "79ff97",
+    text_color: "9f9f9f",
+    bg_color: "188751",
+  },
   default_repocard: {
     title_color: "2f80ed",
     icon_color: "586069", // icon color is different
